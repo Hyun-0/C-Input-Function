@@ -1,6 +1,6 @@
 // This was made to show us how input functions work
 // Some functions were used in C for lack of knowledge in C++
-// Made by Cho Sung-Hyun (Korean)
+// Made by Sung-Hyun Cho (Korean)
 // Github profile : Hyun-0
 
 #pragma warning(disable : 4996)
